@@ -8,3 +8,8 @@ Modeled using a 10 compoenent Mixture where each component is a 100 component Ga
 
 ### Fashion MNIST
 Will have to try the second thing later. Bored!
+
+
+### Neural Style Transfer
+Not exactly generative modeling, but tried to see how it works \
+My profile photo blended with Pablo Picasso's one art and Refik Anadol's one, separately.
